@@ -1,6 +1,6 @@
 ### About Me 
 
-👋 Hi, I’m @seneth-waterman, currently a MS Data Science Student @USFCA. I'm a blend of Data Scientist and Machine Learning Engineer, driven by a passion for learning new technologies and collaborating on impactful projects.
+👋 Hi, I’m Seneth, currently a MS Data Science Student @USFCA. I'm a blend of Data Scientist and Machine Learning Engineer, driven by a passion for learning new technologies and collaborating on impactful projects.
 
 ⌨️ Programming: Python, SQL
 
